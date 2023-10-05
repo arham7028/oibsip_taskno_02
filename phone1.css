@@ -1,0 +1,21 @@
+.navbar{
+    flex-direction: column;
+}
+.logo{
+    text-align: center;
+}
+.navbar ul li a{
+    font-size: 13px;
+    margin: 0px;
+    padding: 0px 7px;
+}
+#about{
+    flex-direction: column;
+}
+.home-text h1 {
+    font-size: 3rem;
+    font-weight: 500;
+    /* color: #fff;
+    line-height: 1.1;
+    margin: 0 0 8px; */
+}
