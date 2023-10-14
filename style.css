@@ -154,7 +154,7 @@ background-color: #2a2a2a;
 
  .btn {
      display: inline-block;
-     padding: 12px;
+     padding: 12px 50px;
      background: #05b4ff;
      border-radius: 5px;
      color: #fff;
